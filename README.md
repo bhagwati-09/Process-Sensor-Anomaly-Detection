@@ -78,10 +78,10 @@ The Autoencoder reconstruction error increases **16x** between normal and faulty
 
 
 process-sensor-anomaly-detection/
-│
+
 ├── Process_Sensor_Anomaly_Detection.ipynb   # Main notebook
 ├── README.md                                 # This file
-│
+
 └── data/                                     # (not included — download instructions below)
     ├── TEP_FaultFree_Training.RData
     ├── TEP_FaultFree_Testing.RData
